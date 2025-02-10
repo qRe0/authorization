@@ -1,0 +1,1 @@
+# Golang auth service
